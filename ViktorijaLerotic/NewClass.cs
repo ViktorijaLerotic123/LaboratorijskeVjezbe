@@ -7,9 +7,6 @@ namespace ViktorijaLerotic
 {
     class NewClass
     {
-        int value = 0;
-        void setValue(int v) {
-            value = v;
-        }
+        Console.WriteLine("Hello New Class");
     }
 }
