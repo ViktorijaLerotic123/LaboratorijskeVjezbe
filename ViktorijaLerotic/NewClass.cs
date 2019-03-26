@@ -7,5 +7,6 @@ namespace ViktorijaLerotic
 {
     class NewClass
     {
+        Console.WriteLine("Hello New Class");
     }
 }
