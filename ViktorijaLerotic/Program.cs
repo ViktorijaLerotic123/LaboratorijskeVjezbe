@@ -9,6 +9,7 @@ namespace ViktorijaLerotic
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
